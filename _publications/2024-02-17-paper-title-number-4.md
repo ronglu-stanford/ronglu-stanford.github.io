@@ -19,5 +19,9 @@ citation: 'Rong Lu (2024). &quot;Should the choice of BOIN design parameter p.to
 
 The traditional 3+3 design stops the dose finding process when 3 patients have been treated at the current dose level, 0 DLT has been observed, and the next higher dose has already been eliminated. If additional 3 patients were required to be treated at the current dose in the situation described above, the decision rules of this commonly used 3+3 design could be generated using BOIN design with target DLT rates ranging from 18% to 29%, _p.saf_ ranging from 8% to 26%, and different _p.tox_ values ranging from 39% to 99%. These BOIN parameters also need to satisfy a set of conditions.
 
+**Meaning:** This study demonstrates the importance of interpreting BOIN design parameter p.tox as an interval of toxicity rates that are considered too toxic, rather than one prespecified value that corresponds to the lowest toxicity probability that is deemed overly toxic. When designing a dose-finding trial using BOIN, it is important to perform simulation studies to identify equivalent sets of BOIN design parameters that can generate the same boundary table so that we can better compare the safety properties of different boundary tables. 
+
+
+
 **_Acknowledgement:_** _This work is partially supported by the Biostatistics Shared Resource (BSR) of the NIH-funded Stanford Cancer Institute (P30CA124435) and the Stanford Center for Clinical and Translational Research and Education (UL1-TR003142). The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of this abstract._
 
