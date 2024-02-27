@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ronglu-stanford/BOIN_p.tox_17Jan2024/blob/main/BOIN_p.tox_24Jan2024_v2.pdf" # "academicpages"
+  github           : "ronglu-stanford/BOIN_p.tox_17Jan2024/blob/main/BOIN_p.tox_24Jan2024_v2.pdf" # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/stanford-rong-lu" # Username
+  linkedin         : "stanford-rong-lu" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
