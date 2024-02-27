@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Welcome! My education and training are in the field of biostatistics and computational math. I currently hold a position of research engineer and senior biostatistician at the Stanford University School of Medicine. I earned my PhD in Biostatistics from The Ohio State University in 2016. My academic work has been [published](https://scholar.google.com/citations?user=4ekcEnMAAAAJ&hl=en&oi=ao) or is forthcoming in [shinyapps.io](https://ronglu-stanford.shinyapps.io/randomizer_3stravar_14feb2024/), [Github](https://github.com/ronglu-stanford/BOIN_p.tox_17Jan2024/blob/main/BOIN_p.tox_24Jan2024_v2.pdf) and [arXiv](https://arxiv.org/abs/2210.04409), among other outlets. The facets of statistical methodology that captivate my interest include: random forest-oriented feature selection strategies, correlated feature selection schemes, and power analysis via simulations.
+
+
+academicpages is a ready-to-fork GitHub Pages template for academic personal websites
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
